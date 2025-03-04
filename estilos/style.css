@@ -46,13 +46,12 @@ section#login{
 
 section#login > div#imagem {
     display: block;
-    display: block;
     background: #5f2c82 url(../imagens/telalogin.jpg) no-repeat;
     background-size: cover;
     height: 200px;
 }
 
-section#login > div#formulario{
+section#login > div#formulario {
     display: block;
     padding: 10px;
     
@@ -63,5 +62,5 @@ div#formulario > h1{
 }
 
 div#formulario > p{
-    font-size: o.8em;
+   font-size: 0.8em;
 }
